@@ -1,11 +1,11 @@
 {
-    "name": "laracon21/combinations",
+    "name": "sinisalt/combinations",
     "description": "My awesome package",
     "keywords": [
-        "laracon21",
+        "sinisalt",
         "combinations"
     ],
-    "homepage": "https://github.com/laracon21/combinations",
+    "homepage": "https://github.com/sinisalt/combinations",
     "license": "MIT",
     "type": "library",
     "authors": [
